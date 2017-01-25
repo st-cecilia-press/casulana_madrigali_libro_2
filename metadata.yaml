@@ -3,177 +3,167 @@ facsimile: http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00074123
   title: Ridon hor per le piagge
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: amor_per_qual_cagion
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/3.jpg
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/27.jpg
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/51.jpg
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/75.jpg
+- slug: 02_amor_per_qual_cagion
   title: Amore per qual cagion
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: ahi_possanza_damor
-  title: Ahi possanza d'amor
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: a_dio_lidia_mia_bella
-  title: A dio Lidia mia bella
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: ben_venga_il_pastor
-  title: Ben venga il pastor
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: cinta_di_fiori_un_giorno
-  title: Cinta di fiori un giorno
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: come_fra_verdi
-  title: Come fra verdi
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: glocchi_lucenti
-  title: Gl'occhi lucenti 
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: gran_miracol_damore
-  title: Gran miracol d'amore
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: 
-  title: 
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: io_dorate
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/4.jpg
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/28.jpg
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/52.jpg
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/76.jpg
+- slug: 03_io_dorate
   title: Io d'orate
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: io_felice_pastore
-  title: Io felice pastore
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/5
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/29
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/53
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/77
+- slug: 04_ahi_possanza_damor
+  title: Ahi possanza d'amor
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: il_vostro_dipartir
-  title: Il vostro dipartir
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: la_dea_che_nel_mar_nacque
-  title: La dea che nel mar nacque
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: morte_che_voi
-  title: Morte che voi
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: monti_selue_fontane
-  title: Monti selue fontane
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: o_notte_o_cielo_o_mare
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/6
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/30
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/54
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/78
+- slug: 05_o_notte_o_cielo_o_mare
   title: O notte o cielo o mare
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: per_lei_posin_oblio
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/7
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/31
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/55
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/79
+- slug: 06_morte_che_voi
+  title: Morte che voi
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/8
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/32
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/56
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/80
+- slug: 07_ben_venga_il_pastor
+  title: Ben venga il pastor
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/9
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/33
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/57
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/81
+- slug: 08_a_dio_lidia_mia_bella
+  title: A dio Lidia mia bella
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/10
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/34
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/58
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/82
+- slug: 09_cinta_di_fiori_un_giorno
+  title: Cinta di fiori un giorno
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/11
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/35
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/59
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/83
+- slug: 10_gli_occhi_lucenti
+  title: Gl'occhi lucenti 
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/12
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/36
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/60
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/84
+- slug: 11_la_dea_che_nel_mar_nacque
+  title: La dea che nel mar nacque
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/13
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/37
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/61
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/85
+- slug: 12_io_felice_pastore
+  title: Io felice pastore
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/14
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/38
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/62
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/86
+- slug: 13_per_lei_posin_oblio
   title: Per lei pos'in oblio
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: salcun_vi_mira
-  title: S'alcun vi mira
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/15
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/39
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/63
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/87
+- slug: 14_monti_selve_fontane
+  title: Monti selve fontane
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: tra_verdi_frondi
-  title: Tra verdi frondi
-  voicings: 
-  - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: vaghi_amorosi_augelli
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/16
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/40
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/64
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/88
+- slug: 15_vaghi_amorosi_augelli
   title: Vaghi amorosi augelli
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-- slug: vivo_ardor
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/17
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/41
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/65
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/89
+- slug: 16_salcun_vi_mira
+  title: S'alcun vi mira
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/18
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/42
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/66
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/90
+- slug: 17_come_fra_verdi
+  title: Come fra verdi
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/19
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/43
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/67
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/91
+- slug: 18_vivo_ardor
   title: Vivo ardor
   voicings: 
   - 
-  cantus_url:
-  altus_url:
-  tenor_url:
-  bassus_url:
-
-
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/20
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/44
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/68
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/92
+- slug: 19_il_vostro_dipartir
+  title: Il vostro dipartir
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/21
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/45
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/69
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/93
+- slug: 20_gran_miracol_damore
+  title: Gran miracol d'amore
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/22
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/46
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/70
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/94
+- slug: 21_tra_verdi_frondi
+  title: Tra verdi frondi
+  voicings: 
+  - 
+  canto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/23
+  alto_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/47
+  tenore_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/71
+  basso_url: http://stimmbuecher.digitale-sammlungen.de/api/book/bsb00074123/page/95
