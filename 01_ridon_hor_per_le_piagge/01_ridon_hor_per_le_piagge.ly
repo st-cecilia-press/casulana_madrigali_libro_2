@@ -54,10 +54,11 @@ g2 r4 a a8[ g f e ] d4 d e1 fs\breve \bar "|."
 }
 
 scMusicThreeName = "tenor"
-scMusicThreeClef = \clef "G_8"
+scMusicThreeClef = \clef "tenor"
 
 scMusicThree =   \relative c' {  
-
+  cs2. cs4 cs2 d4 d f e8 d e4 d
+  c4 d2 cs4 d1 r4
 }
 
 scMusicFourName = "bassus"
