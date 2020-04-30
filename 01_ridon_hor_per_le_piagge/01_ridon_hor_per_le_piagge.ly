@@ -64,13 +64,25 @@ scMusicFourName = "bassus"
 scMusicFourClef = \clef "bass"
 
 scMusicFour =   \relative c' {  
-
+a2. a4 a2 d,4 g f8[ g a b ] c4 g a b a2 d,1
+r r4 e4. e8 a4 d,2 r4 g, c2 g d'4 d a2 d1
+r2 r4 a c2 bf a1 r4 a c b c d bf2 a r1 r4
+a' g2 e f d c4 e f c e2 d r2
+f1 e2 d1 c4 c' f,8[ g  a b ] c4 g g d a'2 d,
+\time 4/4 r4 c g' e \time 3/4 f2 d4 \time 4/4
+c c' c8[ b a g ] f2 b a d,
 }
 
 
 
 
-  
+% Text:
+% Ridon' hor per le piaggie herbett'e fiori,
+% esser non puo che quel angelic' alma,
+% non sent' il suon del' amorose note,
+% se nostra ria fortun' è di piu forza,
+% lagrimand' e cantando i nostri versi,
+% e col bue zopp' andrem cacciando l'aura.
   
 scWordsOneA = \lyricmode {
 
