@@ -71,7 +71,8 @@ r2 r4 a c2 bf a1 r4 a c b c d bf2 a r1 r4
 a' g2 e f d c4 e f c e2 d r2
 f1 e2 d1 c4 c' f,8[ g  a b ] c4 g g d a'2 d,
 \time 4/4 r4 c g' e \time 3/4 f2 d4 \time 4/4
-c c' c8[ b a g ] f2 b a d,
+c c' c8[ b a g ] f2 b a d, r4 c g' e \time 3/4 f2 d4 \time 4/4
+c c' c8[ b a g ] f2 b a1 d,\breve
 }
 
 
@@ -94,13 +95,13 @@ scWordsOneA = \lyricmode {
   
   
 scWordsTwoA = \lyricmode {
-I don' hor per le piag -- gie her -- bett'e fio -- ri Es -- ser
-non puo iy __ _ _ _ che quel an -- ge -- lic' al -- ma Non Sen -- t'il
+Ri don' hor per le piag -- gie her -- bett'e fio -- ri, Es -- ser
+non puo iy __ _ _ _ che quel an -- ge -- lic' al -- ma, Non Sen -- t'il
 suon de -- la -- mo ro -- se no -- _ _ te de -- l'a -- mo ro -- se
-no -- te Se nos -- tra ria for -- tun' è di piu for -- _ _ za
-La -- gri -- man -- d'e can -- tan -- d'i nos -- tri ver -- si
-E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra
-E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra
+no -- te, Se nos -- tra ria for -- tun' è di piu for -- _ _ za,
+La -- gri -- man -- d'e can -- tan -- d'i nos -- tri ver -- si,
+E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra,
+E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra.
 }
     
   
@@ -116,7 +117,13 @@ scWordsThreeA = \lyricmode {
   
   
 scWordsFourA = \lyricmode {
-
+Ri -- don' hor per le piag -- gie her -- bet -- t'e fio -- ri,
+Es -- ser non puo che quel an -- ge -- lic' al -- ma,
+Non sent' -- il suon del' a -- mo -- ro -- se no -- te,
+Se nos -- tra ria for -- tun' è di piu for -- za,
+La -- gri -- mand' e can -- tan -- _ d'i nos -- tri ver -- si,
+E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra,
+E col bue zopp' an -- drem cac -- cian -- _ do l'au -- ra.
 }
     
   
